@@ -2,7 +2,9 @@
  
 How to Play:
 > Move with WASD
+
 > Look around with the mouse
+
 > Jump with spacebar
 
 Info:
